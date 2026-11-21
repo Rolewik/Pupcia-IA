@@ -1,4 +1,6 @@
-# Pupcia IA 🐸
+# HAIDILIDI SZUKACZ 🐸
+
+**Pupcia IA** to nazwa zakładki „O aplikacji”. Główna nazwa programu pozostaje **HAIDILIDI SZUKACZ**.
 
 **Kalapupcia przejęty przez AI stworzył ten pojebany Szukaczajzer.**
 
@@ -6,7 +8,7 @@ Lekka, lokalna wyszukiwarka plików i aplikacji dla Windows 10/11. Bez chmury, t
 
 ## Pobieranie
 
-**[Pobierz najnowszą wersję Pupcia IA](https://github.com/Rolewik/Pupcia-IA/releases/latest)**
+**[Pobierz najnowszą wersję HAIDILIDI SZUKACZ](https://github.com/Rolewik/Pupcia-IA/releases/latest)**
 
 Pobierz `Pupcia-IA.exe` oraz opcjonalnie `Pupcia-IA.exe.sha256`. Program nie wymaga instalatora. Windows x64 wymaga zainstalowanego [Microsoft .NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0).
 
